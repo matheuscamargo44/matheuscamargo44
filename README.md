@@ -1,6 +1,4 @@
-
-    </p>                                                                                                                            
-                                                                                                
+                                                                                                                                                                                                                   
     about me
     
     │▸ brazilian - (pt/br + english)
@@ -11,4 +9,4 @@
           ▸  hibernate/jpa
           ▸  spring data
           ▸  apis rest
-          
+    
