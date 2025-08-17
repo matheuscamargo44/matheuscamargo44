@@ -1,6 +1,4 @@
                                                                                                                                                                                                                    
-    about me
-    
     │▸ brazilian - (pt/br + english)
     │   ┗ ▸ software engineer, backend                                               
     │▸ skills
