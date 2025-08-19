@@ -1,5 +1,5 @@
                                                                                                                                                                                                                    
-    │▸ brazilian - (pt/br + english)
+    │▸ brazilian
     │   ┗ ▸ software engineer, backend                                               
     │▸ skills
         ┗ ▸  java
