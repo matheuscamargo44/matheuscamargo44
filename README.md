@@ -1,10 +1,13 @@
-                                                                                                                                                                                                                   
-    │▸ brazilian
-    │   ┗ ▸ software engineer, backend                                               
-    │▸ skills
-        ┗ ▸  java
-          ▸  spring boot
-          ▸  hibernate/jpa
-          ▸  spring data
-          ▸  apis rest
-    
+```yaml
+
+name:   Matheus Camargo
+role:   Software Engineer (Backend)
+focus:  High-performance APIs & Data Security
+
+languages:  [Java 17/21, Python]
+frameworks: [Spring Boot 3, Spring Data JPA, Spring Security ]
+databases:  [PostgreSQL, MySQL, H2]
+devops:     [Docker, Git, GitHub Actions]
+
+linkedin:   [linkedin.com/in/camargo-dev]
+email:      [matheuscamargotech@gmail.com]
